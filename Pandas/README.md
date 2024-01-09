@@ -16,8 +16,8 @@
 #### Link to the certificate: https://cursos.alura.com.br/certificate/ca10d601-1763-4656-8022-173328b3e2e6?lang=en
 
 <br/>
-___
-<br/>
+
+-----
 
 ## Pandas I/O: trabalhando com diferentes formatos de arquivos
 #### Formação: Python para Data Science
