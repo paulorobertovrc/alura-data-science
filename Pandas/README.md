@@ -19,6 +19,8 @@
 
 -----
 
+<br/>
+
 ## Pandas I/O: trabalhando com diferentes formatos de arquivos
 #### Formação: Python para Data Science
 
