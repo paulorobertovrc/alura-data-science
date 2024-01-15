@@ -1,5 +1,11 @@
 # Pandas
 
+## Formação: Data Science
+
+|                 Nome do Curso                 | Data de conclusão |                                          Certificado                                          |
+|:---------------------------------------------:|:-----------------:|:---------------------------------------------------------------------------------------------:|
+| Data Science: análise e visualização de dados |    27/12/2023     | [🔗](https://cursos.alura.com.br/certificate/6566931f-cd9c-44ce-99de-4e934280f180?lang=pt_BR) |
+
 ## Formação: Python para Data Science
 
 |                        Nome do Curso                        | Data de conclusão |                                          Certificado                                          |
