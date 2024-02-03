@@ -17,3 +17,4 @@ Conforme a estrutura curricular da Alura à época vigente, os cursos aqui refer
   - NumPy
   - Pandas
   - Plotly
+  - Seaborn

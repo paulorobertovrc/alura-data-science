@@ -5,6 +5,7 @@
 |                 Nome do Curso                 | Data de conclusão |                                          Certificado                                          |
 |:---------------------------------------------:|:-----------------:|:---------------------------------------------------------------------------------------------:|
 | Data Science: análise e visualização de dados |    27/12/2023     | [🔗](https://cursos.alura.com.br/certificate/6566931f-cd9c-44ce-99de-4e934280f180?lang=pt_BR) |
+|  Python Pandas: tratando e analisando dados   |    03/02/2024     | [🔗](https://cursos.alura.com.br/certificate/18ea9063-fe22-451d-a55b-be6679e7ae9f?lang=pt_BR) |
 
 ---
 
@@ -21,42 +22,3 @@
 - Formação concluída em 20/01/2024
 - Carga horária estimada em 69 horas
 - Link para o certificado: https://cursos.alura.com.br/degree/certificate/c2467ae2-2276-4d1f-8fd4-196bf82a238e?lang=pt_BR
-
----
-
-#### Pandas: conhecendo a biblioteca
-##### Aulas:
-- Conhecendo a base de dados
-- Análise exploratória de dados
-- Tratando e filtrando dados
-- Manipulando os dados
-
-#### Pandas I/O: trabalhando com diferentes formatos de arquivos
-##### Aulas:
-- Fazendo leitura de arquivos CSV
-- Utilizando planilhas
-- Manipulando arquivos JSON
-- Lendo dados em HTML e XML
-- Trabalhando com banco de dados
-
-#### Pandas: selecionando e agrupando dados
-##### Aulas:
-- Conhecendo os dados
-- Agrupamento de dados
-- Agrupamentos multi-index
-- Unindo dados
-
-#### Pandas: transformação e manipulação de dados
-##### Aulas:
-- Entendendo o problema
-- Dados numéricos
-- Dados textuais
-- Dados de tempo
-
-#### Pandas: limpeza e tratamento de dados
-##### Aulas:
-- Conhecendo os dados
-- Transformação inicial dos dados
-- Utilizando dados duplicados e nulos
-- Lidando com os outliers
-- Trabalhando com variáveis categóricas
